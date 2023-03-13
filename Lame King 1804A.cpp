@@ -9,7 +9,7 @@ void solve(){
     int a,b,maxi=0; cin>>a>>b;
     a=abs(a);
     b=abs(b);
-    if(a==absb){
+    if(a==b){
         cout<<a+b<<endl;
         return;
     }

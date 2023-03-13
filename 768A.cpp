@@ -1,4 +1,5 @@
 /* Question link: https://codeforces.com/problemset/problem/768/A
+Tag: constructive algorithms, sortings, 900*
 Codeforces ID: arpit_26 */
 
 
